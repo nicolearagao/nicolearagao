@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolearagao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=nicolearagao&show_icons=true)
 
 <!--
 **nicolearagao/nicolearagao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
